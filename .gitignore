@@ -1,7 +1,7 @@
 api/node_modules
 api/.env
 api/dist
-api/tmp/*
+api/tmp/*.*
 
 # Logs
 web/logs
