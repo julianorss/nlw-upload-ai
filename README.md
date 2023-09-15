@@ -20,6 +20,7 @@ Create a .env file based in .env.example
 ```bash
   cd api/
   pnpm i
+  pnpm prisma generate 
   pnpm run dev
 ```
 
