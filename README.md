@@ -39,3 +39,7 @@ Install with pnpm
 ```bash
   http://localhost:5173
 ```
+
+##
+Branch develop contains the backend deployment URLs on https://render.com 
+to preview the application: https://nlw-upload-ai.vercel.app/
